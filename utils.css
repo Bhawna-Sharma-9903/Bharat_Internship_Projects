@@ -1,0 +1,27 @@
+
+h1 {
+    color: teal;
+}
+.container{
+    text-align: center;
+}
+
+.bg-black {
+    background-color: rgb(15, 15, 15);
+}
+
+.bg-orange {
+    background-color: rgb(255, 165, 0);
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;   
+}
